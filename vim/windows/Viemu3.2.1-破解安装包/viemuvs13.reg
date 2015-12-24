@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Symnum\ViEmuVS]
+"License"=hex:01,11,11,11,11,11,11,11,11

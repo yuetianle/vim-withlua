@@ -1,0 +1,11 @@
+                             Viemu 3.2.1 破解方法
+                             =====================
+
+
+Vs2013 的 破解安装方法(安装前关闭Vs)：
+
+ 1. 双击安装 ViEmuVS2013-3.2.1.vsix.
+
+ 2. 在 C:\Users\Administrator\AppData\Local\Microsoft\VisualStudio\12.0\Extensions\ 文件夹下，找到 Viemu 的插件目录（目录下的文件名可以看出来）， 将 NGBridge.dll 覆盖。
+
+ 3. 双击导入 viemuvs13.reg.
